@@ -108,7 +108,7 @@ O Resort Platform resolve isso com foco em dois pontos:
 | Banco de dados | PostgreSQL |
 | ORM | Prisma |
 | Storage de arquivos | Cloudinary (mapas, imagens de local, PDFs) |
-| Extração de PDF | LLM externo via adapter próprio (`<confirmar provedor em uso>`) |
+| Extração de PDF | LLM externo via adapter próprio (gemini) |
 | Monorepo | Turborepo |
 | Deploy | Vercel (apps independentes) + Neon (Postgres) |
 
