@@ -26,9 +26,9 @@ Capturas de tela do sistema em produção — painel administrativo e portal do 
 </tr>
 <tr>
 <td align="center"><sub>Upload do PDF</sub></td>
+<td align="center"><sub>Extração de eventos com llm</sub></td>
 <td align="center"><sub>Revisão com nível de confiança</sub></td>
-<td align="center"><sub>Edição individual do evento</sub></td>
-<td align="center"><sub>Publicação em massa</sub></td>
+<td align="center"><sub>Edição e publicação em massa</sub></td>
 </tr>
 </table>
 
